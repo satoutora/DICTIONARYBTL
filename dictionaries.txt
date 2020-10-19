@@ -1,0 +1,80 @@
+a (pre) m?t
+an (pre) m?t
+apple (n) qu? táo
+angle (n) thiên th?n
+ant (n) con ki?n
+application (n) ?ng d?ng
+add (n) thêm
+action (v) di?n
+boy (n) con trai
+baby (n) em bé
+big (adj) to l?n
+box (n) cái h?p
+break (n) bánh mì
+beautifull (adj) xinh d?p
+butterfly (n) con bu?m
+cat (n) con mèo
+cow (n) con bò
+dog (n) con chó
+dad (n) b?
+eat (v) an
+element (n) nguyên t?
+elephent (n) con voi
+example (n) bài t?p
+float (n) s? th?c
+fly (n) con ru?i
+fly (v) bay
+flower (n) bông hoa
+height (n) chi?u cao
+how () th? nào
+Hi?n (n) Vjp Pr0
+juice (n) nu?c hoa qu?
+join (v) tham gia
+lemon (n) qu? chanh
+lamp (n) cái dèn
+lmao (v) cu?i vl
+lol (n) liên minh huy?n tho?i
+mom (n) m?
+make (n) t?o ra
+night (n) dêm
+noise (adj) ?n ào
+option (n) s? l?a ch?n
+october (n) tháng mu?i
+peach (n) qu? dào
+peace (adj) hòa bình
+pink (n) màu h?u
+quick (adj) nhanh
+quickly (adv) nhanh nh?n
+quit (v) thoát
+red (n) màu d?
+road (n) con du?ng
+rich (adj) giàu có
+rat (n) con chu?t
+restaurant (n) nhà hàng
+sick (v) ?m
+support (v) h? tr?
+supermarket (n) siêu th?
+tiger (n) con h?
+think (v) suy nghi
+table (n) cái bàn
+talk (v) nói chuy?n
+teacher (n) giáo viên
+teach (v) d?y
+use (v) s? d?ng
+usually (adj) thu?ng xuyên
+visit (v) tham
+vote (v) b?u ch?n
+victory (n) chi?n th?ng
+wake up (v) th?c d?y
+win (n) chi?n th?ng
+will (v) s?
+week (n) tu?n
+weekend (n) cu?i tu?n
+day (n) ngày
+month (n) tháng
+year (n) nam
+yellow (n) màu vàng
+you (n) b?n
+yesterday (n) ngày hôm qua
+tomorrow (n) ngày mai
+zoo (n) s? thú
